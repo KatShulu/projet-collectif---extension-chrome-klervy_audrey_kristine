@@ -16,7 +16,7 @@ Features & réalisations
 ---------------
 * Création d'une feature permettant de demander la significaton d'un mot en Français, Anglais ou Allemand
 * Création d'une feature proposant à l'utilisateur un mot et sa définition aléatoirement
-* Utilisation de modules Nodes tels que Parcel & Word Definition
+* Utilisation de modules Node tels que Parcel & Word Definition
 * Personnalisation de l'extension :
   * choix du thème : aide à l'appprentissage d'une langue
   * suivi d'une maquette
